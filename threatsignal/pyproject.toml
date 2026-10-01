@@ -6,9 +6,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Dakota Kimble-Curry", email = "itekdmv@outlook.com"},
 ]
-keywords = ["security", "automation", "incident-response", "edr", "firewall"]
+keywords = ["SOAR", "security", "automation", "incident-response", "edr", "firewall"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Information Technology",
